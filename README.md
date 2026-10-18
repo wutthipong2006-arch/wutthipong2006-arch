@@ -61,14 +61,7 @@ I’m a networking enthusiast focused on learning core networking fundamentals, 
 
 ## Projects
 Here are some ideas I can add as you build your profile:
-
-- `ccna-study-notes` — My study notes and learning roadmap for CCNA
-- `network-lab-topologies` — Cisco or virtual lab topologies and configurations
-- `network-troubleshooting-guide` — Notes, commands, and examples for issue diagnosis
-- `python-network-tools` — Small tools for IP, subnet, and network tasks
-- `networks-portfolio` — Practice labs and summary of network concepts
-
-Replace these with your real GitHub repositories when you are ready.
+<<IS COMMING AT SOON>>
 
 ---
 
