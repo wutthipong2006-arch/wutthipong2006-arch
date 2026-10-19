@@ -61,7 +61,7 @@ I’m a networking enthusiast focused on learning core networking fundamentals, 
 
 ## Projects
 Here are some ideas I can add as you build your profile:
-<<IS COMMING AT SOON>>
+Is coming at soon...
 
 ---
 
